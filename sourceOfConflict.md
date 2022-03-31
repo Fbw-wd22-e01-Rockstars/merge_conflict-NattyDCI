@@ -4,7 +4,8 @@
 
 1. List
 2. of
-3. bullet
-4. points
+3. five
+4. bullet
+5. points
 
-<p> There is a bug in this file</p>
+There is no bug in this file.
