@@ -5,7 +5,7 @@
 1. List
 2. of
 3. five
-4. bullet
+4. numbered
 5. points
 
 There is no bug in this file.
